@@ -1,7 +1,7 @@
 # wazuh-telegram
 Send wazuh alert to telegram by telegram bot.
 
-1. First reqirement is you should have working Telegram bot with **API KEY** and **CHAT ID** and also fully working Wazuh server.
+1. First requirement is you should have working Telegram bot with **API KEY** and **CHAT ID** and also fully working Wazuh server.
 
 2. Check reqirements with this command :
 ```
